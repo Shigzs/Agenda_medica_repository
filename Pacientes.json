@@ -1,0 +1,34 @@
+[ {
+  "id" : 2,
+  "cpf" : "81330777883",
+  "nome" : "Yan",
+  "telefones" : [ "123213124" ],
+  "email" : "Yan@yan",
+  "plano" : {
+    "nome" : "Aloha",
+    "ativo" : true
+  },
+  "ativo" : true
+}, {
+  "id" : 1,
+  "cpf" : "49817893863",
+  "nome" : "Reginaldo",
+  "telefones" : [ "123" ],
+  "email" : "shig",
+  "plano" : {
+    "nome" : "Bradesco",
+    "ativo" : true
+  },
+  "ativo" : true
+}, {
+  "id" : 3,
+  "cpf" : "21983751251",
+  "nome" : "VIctoria",
+  "telefones" : [ "3532411" ],
+  "email" : "Vic@victoria",
+  "plano" : {
+    "nome" : "Bradesco",
+    "ativo" : true
+  },
+  "ativo" : true
+} ]

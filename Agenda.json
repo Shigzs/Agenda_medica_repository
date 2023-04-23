@@ -1,0 +1,95 @@
+[ {
+  "id" : 2,
+  "data" : "14/12",
+  "hora" : "14:30",
+  "medico" : {
+    "id" : 2,
+    "nome" : "Dr Dahora ",
+    "cpf" : "91254428054",
+    "especialidades" : [ {
+      "id" : 2,
+      "descricao" : "Ortodontista",
+      "conselho" : "2321321",
+      "sigla" : "CRO",
+      "ativo" : true
+    }, {
+      "id" : 1,
+      "descricao" : "Oftalmologista",
+      "conselho" : "3422",
+      "sigla" : "CRM",
+      "ativo" : true
+    }, {
+      "id" : 3,
+      "descricao" : "Dermatologista",
+      "conselho" : "11122",
+      "sigla" : "CRM",
+      "ativo" : true
+    } ],
+    "telefones" : [ "123213213" ],
+    "ativo" : true
+  },
+  "especialidade" : {
+    "id" : 3,
+    "descricao" : "Dermatologista",
+    "conselho" : "11122",
+    "sigla" : "CRM",
+    "ativo" : true
+  },
+  "paciente" : {
+    "id" : 2,
+    "cpf" : "81330777883",
+    "nome" : "Yan",
+    "telefones" : [ "123213124" ],
+    "email" : "Yan@yan",
+    "plano" : {
+      "nome" : "Aloha",
+      "ativo" : true
+    },
+    "ativo" : true
+  },
+  "ativo" : true
+}, {
+  "id" : 1,
+  "data" : "14/10",
+  "hora" : "13:20",
+  "medico" : {
+    "id" : 2,
+    "nome" : "Rodorfo",
+    "cpf" : "49817893863",
+    "especialidades" : [ {
+      "id" : 1,
+      "descricao" : "Oftalmologista",
+      "conselho" : "3422",
+      "sigla" : "CRM",
+      "ativo" : true
+    }, {
+      "id" : 4,
+      "descricao" : "Clínico Geral",
+      "conselho" : "CRM",
+      "sigla" : "44322",
+      "ativo" : true
+    } ],
+    "telefones" : [ "221331" ],
+    "ativo" : true
+  },
+  "especialidade" : {
+    "id" : 4,
+    "descricao" : "Clínico Geral",
+    "conselho" : "CRM",
+    "sigla" : "44322",
+    "ativo" : true
+  },
+  "paciente" : {
+    "id" : 1,
+    "cpf" : "49817893863",
+    "nome" : "Reginaldo",
+    "telefones" : [ "123" ],
+    "email" : "shig",
+    "plano" : {
+      "nome" : "Bradesco",
+      "ativo" : true
+    },
+    "ativo" : true
+  },
+  "ativo" : true
+} ]

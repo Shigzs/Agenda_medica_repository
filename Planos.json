@@ -1,0 +1,10 @@
+[ {
+  "nome" : "Particular",
+  "ativo" : true
+}, {
+  "nome" : "Bradesco",
+  "ativo" : true
+}, {
+  "nome" : "Aloha",
+  "ativo" : true
+} ]
